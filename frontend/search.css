@@ -1,0 +1,56 @@
+.jumbotron {
+    padding: 24px;
+    background-color: #eeeeee;
+    height: 200px;
+}
+
+/* Adds text shadow to make the text inside the jumbotron pop */
+.jumbotron p,
+.jumbotron h1,
+.jumbotron label {
+    padding: 0px 24px;
+}
+
+.jumbotron .text-left {
+    text-align: center;
+}
+
+/* Adds a top margin to the jumbotron button for better readability */
+.jumbotron .btn {
+    height: 40px;
+    font-size: 20px;
+}
+
+/* Transparent buttons */
+.btn-secondary-dark {
+    color: #000000;
+    background-color: deepskyblue;
+    border-color: #000000;
+}
+
+.panel {
+    padding: 24px;
+}
+
+.panel-title {
+    font-weight: bold;
+}
+
+.middle {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.left {
+    width: 33%;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.right {
+    width: 33%;
+    float: right;
+    text-align: center;
+}

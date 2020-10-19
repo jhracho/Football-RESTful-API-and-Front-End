@@ -1,0 +1,655 @@
+1,20-19,20,19,39,1,Chicago Bears vs. Tampa Bay Buccaneers October 8 2020
+2,26-10,26,10,36,16,Kansas City Chiefs vs. New England Patriots October 5 2020
+3,30-16,30,16,46,14,Green Bay Packers vs. Atlanta Falcons October 5 2020
+4,31-17,31,17,48,14,Baltimore Ravens vs. Washington Football Team October 4 2020
+5,31-21,31,21,52,10,Carolina Panthers vs. Arizona Cardinals October 4 2020
+6,38-31,38,31,69,7,Tampa Bay Buccaneers vs. Los Angeles Chargers October 4 2020
+7,30-23,30,23,53,7,Buffalo Bills vs. Las Vegas Raiders October 4 2020
+8,17-9,17,9,26,8,Los Angeles Rams vs. New York Giants October 4 2020
+9,31-23,31,23,54,8,Minnesota Vikings vs. Houston Texans October 4 2020
+10,25-20,25,20,45,5,Philadelphia Eagles vs. San Francisco 49ers October 4 2020
+11,33-25,33,25,58,8,Cincinnati Bengals vs. Jacksonville Jaguars October 4 2020
+12,19-11,19,11,30,8,Indianapolis Colts vs. Chicago Bears October 4 2020
+13,49-38,49,38,87,11,Cleveland Browns vs. Dallas Cowboys October 4 2020
+14,35-29,35,29,64,6,New Orleans Saints vs. Detroit Lions October 4 2020
+15,37-28,37,28,65,9,Denver Broncos vs. New York Jets October 1 2020
+16,34-20,34,20,54,14,Kansas City Chiefs vs. Baltimore Ravens September 28 2020
+17,28-21,28,21,49,7,Pittsburgh Steelers vs. Houston Texans September 27 2020
+18,28-10,28,10,38,18,Tampa Bay Buccaneers vs. Denver Broncos September 27 2020
+19,26-23,26,23,49,3,Detroit Lions vs. Arizona Cardinals September 27 2020
+20,21-16,21,16,37,5,Carolina Panthers vs. Los Angeles Chargers September 27 2020
+21,31-30,31,30,61,1,Tennessee Titans vs. Minnesota Vikings September 27 2020
+22,36-20,36,20,56,16,New England Patriots vs. Las Vegas Raiders September 27 2020
+23,30-26,30,26,56,4,Chicago Bears vs. Atlanta Falcons September 27 2020
+24,35-32,35,32,67,3,Buffalo Bills vs. Los Angeles Rams September 27 2020
+25,36-7,36,7,43,29,Indianapolis Colts vs. New York Jets September 27 2020
+26,37-30,37,30,67,7,Green Bay Packers vs. New Orleans Saints September 27 2020
+27,23-23,23,23,46,0,Cincinnati Bengals vs. Philadelphia Eagles September 27 2020
+28,36-9,36,9,45,27,San Francisco 49ers vs. New York Giants September 27 2020
+29,31-13,31,13,44,18,Miami Dolphins vs. Jacksonville Jaguars September 24 2020
+30,34-24,34,24,58,10,Las Vegas Raiders vs. New Orleans Saints September 21 2020
+31,23-20,23,20,43,3,Kansas City Chiefs vs. Los Angeles Chargers September 20 2020
+32,17-13,17,13,30,4,Chicago Bears vs. New York Giants September 20 2020
+33,31-28,31,28,59,3,Buffalo Bills vs. Miami Dolphins September 20 2020
+34,26-21,26,21,47,5,Pittsburgh Steelers vs. Denver Broncos September 20 2020
+35,33-30,33,30,63,3,Tennessee Titans vs. Jacksonville Jaguars September 20 2020
+36,42-21,42,21,63,21,Green Bay Packers vs. Detroit Lions September 20 2020
+37,35-30,35,30,65,5,Seattle Seahawks vs. New England Patriots September 20 2020
+38,33-16,33,16,49,17,Baltimore Ravens vs. Houston Texans September 20 2020
+39,30-15,30,15,45,15,Arizona Cardinals vs. Washington Football Team September 20 2020
+40,37-19,37,19,56,18,Los Angeles Rams vs. Philadelphia Eagles September 20 2020
+41,28-11,28,11,39,17,Indianapolis Colts vs. Minnesota Vikings September 20 2020
+42,40-39,40,39,79,1,Dallas Cowboys vs. Atlanta Falcons September 20 2020
+43,16-14,16,14,30,2,Tennessee Titans vs. Denver Broncos September 14 2020
+44,26-16,26,16,42,10,Pittsburgh Steelers vs. New York Giants September 14 2020
+45,20-17,20,17,37,3,Los Angeles Rams vs. Dallas Cowboys September 13 2020
+46,16-13,16,13,29,3,Los Angeles Chargers vs. Cincinnati Bengals September 13 2020
+47,27-20,27,20,47,7,Jacksonville Jaguars vs. Indianapolis Colts September 13 2020
+48,24-20,24,20,44,4,Arizona Cardinals vs. San Francisco 49ers September 13 2020
+49,27-17,27,17,44,10,Buffalo Bills vs. New York Jets September 13 2020
+50,27-23,27,23,50,4,Chicago Bears vs. Detroit Lions September 13 2020
+51,34-23,34,23,57,11,New Orleans Saints vs. Tampa Bay Buccaneers September 13 2020
+52,38-6,38,6,44,32,Baltimore Ravens vs. Cleveland Browns September 13 2020
+53,34-30,34,30,64,4,Las Vegas Raiders vs. Carolina Panthers September 13 2020
+54,21-11,21,11,32,10,New England Patriots vs. Miami Dolphins September 13 2020
+55,38-25,38,25,63,13,Seattle Seahawks vs. Atlanta Falcons September 13 2020
+56,43-34,43,34,77,9,Green Bay Packers vs. Minnesota Vikings September 13 2020
+57,31-20,31,20,51,11,Kansas City Chiefs vs. San Francisco 49ers February 2 2020
+58,35-24,35,24,59,11,Kansas City Chiefs vs. Tennessee Titans January 19 2020
+59,37-20,37,20,57,17,San Francisco 49ers vs. Green Bay Packers January 19 2020
+60,28-23,28,23,51,5,Green Bay Packers vs. Seattle Seahawks January 12 2020
+61,51-31,51,31,82,20,Kansas City Chiefs vs. Houston Texans January 12 2020
+62,27-10,27,10,37,17,San Francisco 49ers vs. Minnesota Vikings January 11 2020
+63,28-12,28,12,40,16,Tennessee Titans vs. Baltimore Ravens January 11 2020
+64,26-20,26,20,46,6,Minnesota Vikings vs. New Orleans Saints January 5 2020
+65,20-13,20,13,33,7,Tennessee Titans vs. New England Patriots January 4 2020
+66,22-19,22,19,41,3,Houston Texans vs. Buffalo Bills January 4 2020
+67,27-24,27,24,51,3,Miami Dolphins vs. New England Patriots December 29 2019
+68,31-24,31,24,55,7,Los Angeles Rams vs. Arizona Cardinals December 29 2019
+69,34-17,34,17,51,17,Philadelphia Eagles vs. New York Giants December 29 2019
+70,13-6,13,6,19,7,New York Jets vs. Buffalo Bills December 29 2019
+71,35-14,35,14,49,21,Tennessee Titans vs. Houston Texans December 29 2019
+72,38-20,38,20,58,18,Jacksonville Jaguars vs. Indianapolis Colts December 29 2019
+73,21-19,21,19,40,2,Chicago Bears vs. Minnesota Vikings December 29 2019
+74,42-10,42,10,52,32,New Orleans Saints vs. Carolina Panthers December 29 2019
+75,16-15,16,15,31,1,Denver Broncos vs. Oakland Raiders December 29 2019
+76,28-22,28,22,50,6,Atlanta Falcons vs. Tampa Bay Buccaneers December 29 2019
+77,33-23,33,23,56,10,Cincinnati Bengals vs. Cleveland Browns December 29 2019
+78,47-16,47,16,63,31,Dallas Cowboys vs. Washington Redskins December 29 2019
+79,23-10,23,10,33,13,Green Bay Packers vs. Minnesota Vikings December 23 2019
+80,24-17,24,17,41,7,Oakland Raiders vs. Los Angeles Chargers December 22 2019
+81,16-10,16,10,26,6,New York Jets vs. Pittsburgh Steelers December 22 2019
+82,27-13,27,13,40,14,Arizona Cardinals vs. Seattle Seahawks December 22 2019
+83,38-28,38,28,66,10,New Orleans Saints vs. Tennessee Titans December 22 2019
+84,38-35,38,35,73,3,Miami Dolphins vs. Cincinnati Bengals December 22 2019
+85,26-3,26,3,29,23,Kansas City Chiefs vs. Chicago Bears December 22 2019
+86,24-12,24,12,36,12,Atlanta Falcons vs. Jacksonville Jaguars December 22 2019
+87,31-15,31,15,46,16,Baltimore Ravens vs. Cleveland Browns December 22 2019
+88,41-35,41,35,76,6,New York Giants vs. Washington Redskins December 22 2019
+89,34-31,34,31,65,3,San Francisco 49ers vs. Los Angeles Rams December 21 2019
+90,34-7,34,7,41,27,New Orleans Saints vs. Indianapolis Colts December 16 2019
+91,24-21,24,21,45,3,Houston Texans vs. Tennessee Titans December 15 2019
+92,17-10,17,10,27,7,Buffalo Bills vs. Pittsburgh Steelers December 15 2019
+93,20-16,20,16,36,4,Jacksonville Jaguars vs. Oakland Raiders December 15 2019
+94,30-24,30,24,54,6,Seattle Seahawks vs. Carolina Panthers December 15 2019
+95,38-24,38,24,62,14,Arizona Cardinals vs. Cleveland Browns December 15 2019
+96,21-13,21,13,34,8,Green Bay Packers vs. Chicago Bears December 15 2019
+97,38-17,38,17,55,21,Tampa Bay Buccaneers vs. Detroit Lions December 15 2019
+98,34-13,34,13,47,21,New England Patriots vs. Cincinnati Bengals December 15 2019
+99,23-3,23,3,26,20,Kansas City Chiefs vs. Denver Broncos December 15 2019
+100,37-27,37,27,64,10,Philadelphia Eagles vs. Washington Redskins December 15 2019
+101,44-21,44,21,65,23,Dallas Cowboys vs. Los Angeles Rams December 15 2019
+102,29-22,29,22,51,7,Atlanta Falcons vs. San Francisco 49ers December 15 2019
+103,39-10,39,10,49,29,Minnesota Vikings vs. Los Angeles Chargers December 15 2019
+104,23-17,23,17,40,6,Philadelphia Eagles vs. New York Giants December 9 2019
+105,20-7,20,7,27,13,Minnesota Vikings vs. Detroit Lions December 8 2019
+106,23-16,23,16,39,7,Kansas City Chiefs vs. New England Patriots December 8 2019
+107,22-21,22,21,43,1,New York Jets vs. Miami Dolphins December 8 2019
+108,45-10,45,10,55,35,Los Angeles Chargers vs. Jacksonville Jaguars December 8 2019
+109,27-19,27,19,46,8,Cleveland Browns vs. Cincinnati Bengals December 8 2019
+110,20-15,20,15,35,5,Green Bay Packers vs. Washington Redskins December 8 2019
+111,40-20,40,20,60,20,Atlanta Falcons vs. Carolina Panthers December 8 2019
+112,48-46,48,46,94,2,San Francisco 49ers vs. New Orleans Saints December 8 2019
+113,37-31,37,31,68,6,Miami Dolphins vs. Philadelphia Eagles December 1 2019
+114,29-21,29,21,50,8,Washington Redskins vs. Carolina Panthers December 1 2019
+115,22-6,22,6,28,16,Cincinnati Bengals vs. New York Jets December 1 2019
+116,40-9,40,9,49,31,Kansas City Chiefs vs. Oakland Raiders December 1 2019
+117,26-18,26,18,44,8,New Orleans Saints vs. Atlanta Falcons November 28 2019
+118,26-15,26,15,41,11,Buffalo Bills vs. Dallas Cowboys November 28 2019
+119,45-6,45,6,51,39,Baltimore Ravens vs. Los Angeles Rams November 25 2019
+120,20-3,20,3,23,17,Buffalo Bills vs. Denver Broncos November 24 2019
+121,19-16,19,16,35,3,Washington Redskins vs. Detroit Lions November 24 2019
+122,19-14,19,14,33,5,Chicago Bears vs. New York Giants November 24 2019
+123,13-9,13,9,22,4,New England Patriots vs. Dallas Cowboys November 24 2019
+124,34-3,34,3,37,31,New York Jets vs. Oakland Raiders November 24 2019
+125,41-24,41,24,65,17,Cleveland Browns vs. Miami Dolphins November 24 2019
+126,42-20,42,20,62,22,Tennessee Titans vs. Jacksonville Jaguars November 24 2019
+127,35-22,35,22,57,13,Tampa Bay Buccaneers vs. Atlanta Falcons November 24 2019
+128,37-8,37,8,45,29,San Francisco 49ers vs. Green Bay Packers November 24 2019
+129,17-7,17,7,24,10,Los Angeles Rams vs. Chicago Bears November 17 2019
+130,41-7,41,7,48,34,Baltimore Ravens vs. Houston Texans November 17 2019
+131,35-27,35,27,62,8,Dallas Cowboys vs. Detroit Lions November 17 2019
+132,33-13,33,13,46,20,Indianapolis Colts vs. Jacksonville Jaguars November 17 2019
+133,29-3,29,3,32,26,Atlanta Falcons vs. Carolina Panthers November 17 2019
+134,36-26,36,26,62,10,San Francisco 49ers vs. Arizona Cardinals November 17 2019
+135,21-7,21,7,28,14,Cleveland Browns vs. Pittsburgh Steelers November 14 2019
+136,30-27,30,27,57,3,Tampa Bay Buccaneers vs. Arizona Cardinals November 10 2019
+137,28-24,28,24,52,4,Minnesota Vikings vs. Dallas Cowboys November 10 2019
+138,34-27,34,27,61,7,New York Jets vs. New York Giants November 10 2019
+139,24-16,24,16,40,8,Green Bay Packers vs. Carolina Panthers November 10 2019
+140,17-12,17,12,29,5,Pittsburgh Steelers vs. Los Angeles Rams November 10 2019
+141,16-12,16,12,28,4,Miami Dolphins vs. Indianapolis Colts November 10 2019
+142,26-9,26,9,35,17,Atlanta Falcons vs. New Orleans Saints November 10 2019
+143,49-13,49,13,62,36,Baltimore Ravens vs. Cincinnati Bengals November 10 2019
+144,26-24,26,24,50,2,Oakland Raiders vs. Los Angeles Chargers November 7 2019
+145,37-18,37,18,55,19,Dallas Cowboys vs. New York Giants November 4 2019
+146,30-20,30,20,50,10,Carolina Panthers vs. Tennessee Titans November 3 2019
+147,24-19,24,19,43,5,Denver Broncos vs. Cleveland Browns November 3 2019
+148,24-9,24,9,33,15,Buffalo Bills vs. Washington Redskins November 3 2019
+149,22-14,22,14,36,8,Philadelphia Eagles vs. Chicago Bears November 3 2019
+150,40-34,40,34,74,6,Seattle Seahawks vs. Tampa Bay Buccaneers November 3 2019
+151,26-11,26,11,37,15,Los Angeles Chargers vs. Green Bay Packers November 3 2019
+152,28-25,28,25,53,3,San Francisco 49ers vs. Arizona Cardinals October 31 2019
+153,27-14,27,14,41,13,Pittsburgh Steelers vs. Miami Dolphins October 28 2019
+154,24-10,24,10,34,14,Los Angeles Rams vs. Cincinnati Bengals October 27 2019
+155,17-16,17,16,33,1,Los Angeles Chargers vs. Chicago Bears October 27 2019
+156,31-26,31,26,57,5,Detroit Lions vs. New York Giants October 27 2019
+157,15-13,15,13,28,2,Indianapolis Colts vs. Denver Broncos October 27 2019
+158,31-9,31,9,40,22,New Orleans Saints vs. Arizona Cardinals October 27 2019
+159,29-15,29,15,44,14,Jacksonville Jaguars vs. New York Jets October 27 2019
+160,51-13,51,13,64,38,San Francisco 49ers vs. Carolina Panthers October 27 2019
+161,19-9,19,9,28,10,Minnesota Vikings vs. Washington Redskins October 24 2019
+162,33-0,33,0,33,33,New England Patriots vs. New York Jets October 21 2019
+163,27-21,27,21,48,6,Arizona Cardinals vs. New York Giants October 20 2019
+164,9-0,9,0,9,9,San Francisco 49ers vs. Washington Redskins October 20 2019
+165,37-10,37,10,47,27,Dallas Cowboys vs. Philadelphia Eagles October 20 2019
+166,42-24,42,24,66,18,Green Bay Packers vs. Oakland Raiders October 20 2019
+167,42-30,42,30,72,12,Minnesota Vikings vs. Detroit Lions October 20 2019
+168,36-25,36,25,61,11,New Orleans Saints vs. Chicago Bears October 20 2019
+169,30-6,30,6,36,24,Kansas City Chiefs vs. Denver Broncos October 17 2019
+170,23-22,23,22,45,1,Green Bay Packers vs. Detroit Lions October 14 2019
+171,16-0,16,0,16,16,Denver Broncos vs. Tennessee Titans October 13 2019
+172,24-22,24,22,46,2,New York Jets vs. Dallas Cowboys October 13 2019
+173,34-33,34,33,67,1,Arizona Cardinals vs. Atlanta Falcons October 13 2019
+174,32-28,32,28,60,4,Seattle Seahawks vs. Cleveland Browns October 13 2019
+175,37-26,37,26,63,11,Carolina Panthers vs. Tampa Bay Buccaneers October 13 2019
+176,31-3,31,3,34,28,San Francisco 49ers vs. Cleveland Browns October 7 2019
+177,14-7,14,7,21,7,Buffalo Bills vs. Tennessee Titans October 6 2019
+178,19-13,19,13,32,6,Indianapolis Colts vs. Kansas City Chiefs October 6 2019
+179,31-6,31,6,37,25,Philadelphia Eagles vs. New York Jets October 6 2019
+180,33-7,33,7,40,26,New England Patriots vs. Washington Redskins October 6 2019
+181,53-32,53,32,85,21,Houston Texans vs. Atlanta Falcons October 6 2019
+182,30-29,30,29,59,1,Seattle Seahawks vs. Los Angeles Rams October 3 2019
+183,27-3,27,3,30,24,Pittsburgh Steelers vs. Cincinnati Bengals September 30 2019
+184,24-3,24,3,27,21,New York Giants vs. Washington Redskins September 29 2019
+185,30-10,30,10,40,20,Los Angeles Chargers vs. Miami Dolphins September 29 2019
+186,16-6,16,6,22,10,Chicago Bears vs. Minnesota Vikings September 29 2019
+187,12-10,12,10,22,2,New Orleans Saints vs. Dallas Cowboys September 29 2019
+188,40-25,40,25,65,15,Cleveland Browns vs. Baltimore Ravens September 29 2019
+189,55-40,55,40,95,15,Tampa Bay Buccaneers vs. Los Angeles Rams September 29 2019
+190,21-17,21,17,38,4,Buffalo Bills vs. Cincinnati Bengals September 22 2019
+191,34-14,34,14,48,20,Minnesota Vikings vs. Oakland Raiders September 22 2019
+192,30-14,30,14,44,16,New England Patriots vs. New York Jets September 22 2019
+193,27-16,27,16,43,11,Green Bay Packers vs. Denver Broncos September 22 2019
+194,33-27,33,27,60,6,New Orleans Saints vs. Seattle Seahawks September 22 2019
+195,33-28,33,28,61,5,Kansas City Chiefs vs. Baltimore Ravens September 22 2019
+196,32-31,32,31,63,1,New York Giants vs. Tampa Bay Buccaneers September 22 2019
+197,13-10,13,10,23,3,Detroit Lions vs. Los Angeles Chargers September 15 2019
+198,28-14,28,14,42,14,Buffalo Bills vs. New York Giants September 15 2019
+199,19-17,19,17,36,2,Indianapolis Colts vs. Tennessee Titans September 15 2019
+200,13-12,13,12,25,1,Houston Texans vs. Jacksonville Jaguars September 15 2019
+201,41-17,41,17,58,24,San Francisco 49ers vs. Cincinnati Bengals September 15 2019
+202,27-9,27,9,36,18,Los Angeles Rams vs. New Orleans Saints September 15 2019
+203,28-26,28,26,54,2,Seattle Seahawks vs. Pittsburgh Steelers September 15 2019
+204,43-0,43,0,43,43,New England Patriots vs. Miami Dolphins September 15 2019
+205,20-14,20,14,34,6,Tampa Bay Buccaneers vs. Carolina Panthers September 12 2019
+206,30-28,30,28,58,2,New Orleans Saints vs. Houston Texans September 9 2019
+207,21-20,21,20,41,1,Seattle Seahawks vs. Cincinnati Bengals September 8 2019
+208,35-17,35,17,52,18,Dallas Cowboys vs. New York Giants September 8 2019
+209,33-3,33,3,36,30,New England Patriots vs. Pittsburgh Steelers September 8 2019
+210,27-27,27,27,54,0,Arizona Cardinals vs. Detroit Lions September 8 2019
+211,43-13,43,13,56,30,Tennessee Titans vs. Cleveland Browns September 8 2019
+212,32-27,32,27,59,5,Philadelphia Eagles vs. Washington Redskins September 8 2019
+213,40-26,40,26,66,14,Kansas City Chiefs vs. Jacksonville Jaguars September 8 2019
+214,59-10,59,10,69,49,Baltimore Ravens vs. Miami Dolphins September 8 2019
+215,10-3,10,3,13,7,Green Bay Packers vs. Chicago Bears September 5 2019
+216,13-3,13,3,16,10,New England Patriots vs. Los Angeles Rams February 3 2019
+217,41-28,41,28,69,13,New England Patriots vs. Los Angeles Chargers January 13 2019
+218,30-22,30,22,52,8,Los Angeles Rams vs. Dallas Cowboys January 12 2019
+219,24-0,24,0,24,24,Philadelphia Eagles vs. Washington Redskins December 30 2018
+220,31-0,31,0,31,31,Detroit Lions vs. Green Bay Packers December 30 2018
+221,33-14,33,14,47,19,Carolina Panthers vs. New Orleans Saints December 30 2018
+222,33-17,33,17,50,16,Indianapolis Colts vs. Tennessee Titans December 30 2018
+223,42-17,42,17,59,25,Buffalo Bills vs. Miami Dolphins December 30 2018
+224,35-3,35,3,38,32,Kansas City Chiefs vs. Oakland Raiders December 30 2018
+225,38-3,38,3,41,35,New England Patriots vs. New York Jets December 30 2018
+226,23-9,23,9,32,14,Los Angeles Chargers vs. Denver Broncos December 30 2018
+227,36-35,36,35,71,1,Dallas Cowboys vs. New York Giants December 30 2018
+228,34-32,34,32,66,2,Atlanta Falcons vs. Tampa Bay Buccaneers December 30 2018
+229,48-32,48,32,80,16,Los Angeles Rams vs. San Francisco 49ers December 30 2018
+230,28-27,28,27,55,1,Indianapolis Colts vs. New York Giants December 23 2018
+231,14-9,14,9,23,5,Chicago Bears vs. San Francisco 49ers December 23 2018
+232,44-38,44,38,82,6,Green Bay Packers vs. New York Jets December 23 2018
+233,32-30,32,30,62,2,Philadelphia Eagles vs. Houston Texans December 23 2018
+234,22-10,22,10,32,12,Baltimore Ravens vs. Los Angeles Chargers December 22 2018
+235,25-16,25,16,41,9,Tennessee Titans vs. Washington Redskins December 22 2018
+236,12-9,12,9,21,3,New Orleans Saints vs. Carolina Panthers December 17 2018
+237,14-13,14,13,27,1,Buffalo Bills vs. Detroit Lions December 16 2018
+238,17-0,17,0,17,17,Tennessee Titans vs. New York Giants December 16 2018
+239,23-0,23,0,23,23,Indianapolis Colts vs. Dallas Cowboys December 16 2018
+240,20-12,20,12,32,8,Baltimore Ravens vs. Tampa Bay Buccaneers December 16 2018
+241,40-14,40,14,54,26,Atlanta Falcons vs. Arizona Cardinals December 16 2018
+242,29-28,29,28,57,1,Los Angeles Chargers vs. Kansas City Chiefs December 13 2018
+243,17-3,17,3,20,14,Detroit Lions vs. Arizona Cardinals December 9 2018
+244,29-23,29,23,52,6,Dallas Cowboys vs. Philadelphia Eagles December 9 2018
+245,15-6,15,6,21,9,Chicago Bears vs. Los Angeles Rams December 9 2018
+246,40-16,40,16,56,24,New York Giants vs. Washington Redskins December 9 2018
+247,30-9,30,9,39,21,Tennessee Titans vs. Jacksonville Jaguars December 6 2018
+248,28-13,28,13,41,15,Philadelphia Eagles vs. Washington Redskins December 3 2018
+249,6-0,6,0,6,6,Jacksonville Jaguars vs. Indianapolis Colts December 2 2018
+250,29-13,29,13,42,16,Houston Texans vs. Cleveland Browns December 2 2018
+251,26-22,26,22,48,4,Tennessee Titans vs. New York Jets December 2 2018
+252,40-33,40,33,73,7,Kansas City Chiefs vs. Oakland Raiders December 2 2018
+253,43-16,43,16,59,27,Seattle Seahawks vs. San Francisco 49ers December 2 2018
+254,35-20,35,20,55,15,Cleveland Browns vs. Cincinnati Bengals November 25 2018
+255,25-22,25,22,47,3,Philadelphia Eagles vs. New York Giants November 25 2018
+256,54-51,54,51,105,3,Los Angeles Rams vs. Kansas City Chiefs November 19 2018
+257,23-21,23,21,44,2,Houston Texans vs. Washington Redskins November 18 2018
+258,38-10,38,10,48,28,Indianapolis Colts vs. Tennessee Titans November 18 2018
+259,48-7,48,7,55,41,New Orleans Saints vs. Philadelphia Eagles November 18 2018
+260,20-6,20,6,26,14,Los Angeles Chargers vs. Oakland Raiders November 11 2018
+261,34-10,34,10,44,24,Tennessee Titans vs. New England Patriots November 11 2018
+262,26-14,26,14,40,12,Kansas City Chiefs vs. Arizona Cardinals November 11 2018
+263,41-10,41,10,51,31,Buffalo Bills vs. New York Jets November 11 2018
+264,16-3,16,3,19,13,Washington Redskins vs. Tampa Bay Buccaneers November 11 2018
+265,28-16,28,16,44,12,Cleveland Browns vs. Atlanta Falcons November 11 2018
+266,29-26,29,26,55,3,Indianapolis Colts vs. Jacksonville Jaguars November 11 2018
+267,31-12,31,12,43,19,Green Bay Packers vs. Miami Dolphins November 11 2018
+268,51-14,51,14,65,37,New Orleans Saints vs. Cincinnati Bengals November 11 2018
+269,36-31,36,31,67,5,Los Angeles Rams vs. Seattle Seahawks November 11 2018
+270,34-22,34,22,56,12,Chicago Bears vs. Detroit Lions November 11 2018
+271,52-21,52,21,73,31,Pittsburgh Steelers vs. Carolina Panthers November 8 2018
+272,38-14,38,14,52,24,Atlanta Falcons vs. Washington Redskins November 4 2018
+273,37-21,37,21,58,16,Kansas City Chiefs vs. Cleveland Browns November 4 2018
+274,42-28,42,28,70,14,Carolina Panthers vs. Tampa Bay Buccaneers November 4 2018
+275,25-17,25,17,42,8,Los Angeles Chargers vs. Seattle Seahawks November 4 2018
+276,45-35,45,35,80,10,New Orleans Saints vs. Los Angeles Rams November 4 2018
+277,41-9,41,9,50,32,Chicago Bears vs. Buffalo Bills November 4 2018
+278,25-6,25,6,31,19,New England Patriots vs. Buffalo Bills October 29 2018
+279,37-34,37,34,71,3,Cincinnati Bengals vs. Tampa Bay Buccaneers October 28 2018
+280,29-27,29,27,56,2,Los Angeles Rams vs. Green Bay Packers October 28 2018
+281,18-15,18,15,33,3,Arizona Cardinals vs. San Francisco 49ers October 28 2018
+282,33-18,33,18,51,15,Pittsburgh Steelers vs. Cleveland Browns October 28 2018
+283,24-18,24,18,42,6,Philadelphia Eagles vs. Jacksonville Jaguars October 28 2018
+284,36-21,36,21,57,15,Carolina Panthers vs. Baltimore Ravens October 28 2018
+285,42-23,42,23,65,19,Houston Texans vs. Miami Dolphins October 25 2018
+286,24-23,24,23,47,1,New Orleans Saints vs. Baltimore Ravens October 21 2018
+287,37-17,37,17,54,20,Minnesota Vikings vs. New York Jets October 21 2018
+288,32-21,32,21,53,11,Detroit Lions vs. Miami Dolphins October 21 2018
+289,37-5,37,5,42,32,Indianapolis Colts vs. Buffalo Bills October 21 2018
+290,21-0,21,0,21,21,Baltimore Ravens vs. Tennessee Titans October 14 2018
+291,40-7,40,7,47,33,Dallas Cowboys vs. Jacksonville Jaguars October 14 2018
+292,34-29,34,29,63,5,Atlanta Falcons vs. Tampa Bay Buccaneers October 14 2018
+293,42-34,42,34,76,8,New York Jets vs. Indianapolis Colts October 14 2018
+294,43-40,43,40,83,3,New England Patriots vs. Kansas City Chiefs October 14 2018
+295,43-19,43,19,62,24,New Orleans Saints vs. Washington Redskins October 8 2018
+296,34-16,34,16,50,18,New York Jets vs. Denver Broncos October 7 2018
+297,33-31,33,31,64,2,Carolina Panthers vs. New York Giants October 7 2018
+298,28-18,28,18,46,10,Arizona Cardinals vs. San Francisco 49ers October 7 2018
+299,38-7,38,7,45,31,New England Patriots vs. Miami Dolphins September 30 2018
+300,22-0,22,0,22,22,Green Bay Packers vs. Buffalo Bills September 30 2018
+301,48-10,48,10,58,38,Chicago Bears vs. Tampa Bay Buccaneers September 30 2018
+302,45-42,45,42,87,3,Oakland Raiders vs. Cleveland Browns September 30 2018
+303,37-36,37,36,73,1,Cincinnati Bengals vs. Atlanta Falcons September 30 2018
+304,24-13,24,13,37,11,Seattle Seahawks vs. Dallas Cowboys September 23 2018
+305,28-20,28,20,48,8,Miami Dolphins vs. Oakland Raiders September 23 2018
+306,27-6,27,6,33,21,Buffalo Bills vs. Minnesota Vikings September 23 2018
+307,9-6,9,6,15,3,Tennessee Titans vs. Jacksonville Jaguars September 23 2018
+308,27-22,27,22,49,5,New York Giants vs. Houston Texans September 23 2018
+309,38-27,38,27,65,11,Kansas City Chiefs vs. San Francisco 49ers September 23 2018
+310,35-23,35,23,58,12,Los Angeles Rams vs. Los Angeles Chargers September 23 2018
+311,43-37,43,37,80,6,New Orleans Saints vs. Atlanta Falcons September 23 2018
+312,34-0,34,0,34,34,Los Angeles Rams vs. Arizona Cardinals September 16 2018
+313,21-9,21,9,30,12,Indianapolis Colts vs. Washington Redskins September 16 2018
+314,21-18,21,18,39,3,New Orleans Saints vs. Cleveland Browns September 16 2018
+315,42-37,42,37,79,5,Kansas City Chiefs vs. Pittsburgh Steelers September 16 2018
+316,29-29,29,29,58,0,Green Bay Packers vs. Minnesota Vikings September 16 2018
+317,48-17,48,17,65,31,New York Jets vs. Detroit Lions September 10 2018
+318,24-6,24,6,30,18,Washington Redskins vs. Arizona Cardinals September 9 2018
+319,21-21,21,21,42,0,Cleveland Browns vs. Pittsburgh Steelers September 9 2018
+320,16-8,16,8,24,8,Carolina Panthers vs. Dallas Cowboys September 9 2018
+321,47-3,47,3,50,44,Baltimore Ravens vs. Buffalo Bills September 9 2018
+322,48-40,48,40,88,8,Tampa Bay Buccaneers vs. New Orleans Saints September 9 2018
+323,18-12,18,12,30,6,Philadelphia Eagles vs. Atlanta Falcons September 6 2018
+324,41-33,41,33,74,8,Philadelphia Eagles vs. New England Patriots February 4 2018
+325,29-24,29,24,53,5,Minnesota Vikings vs. New Orleans Saints January 14 2018
+326,15-10,15,10,25,5,Philadelphia Eagles vs. Atlanta Falcons January 13 2018
+327,26-13,26,13,39,13,Atlanta Falcons vs. Los Angeles Rams January 6 2018
+328,31-27,31,27,58,4,Cincinnati Bengals vs. Baltimore Ravens December 31 2017
+329,22-13,22,13,35,9,Indianapolis Colts vs. Houston Texans December 31 2017
+330,22-16,22,16,38,6,Buffalo Bills vs. Miami Dolphins December 31 2017
+331,26-6,26,6,32,20,New England Patriots vs. New York Jets December 31 2017
+332,18-10,18,10,28,8,New York Giants vs. Washington Redskins December 31 2017
+333,35-11,35,11,46,24,Detroit Lions vs. Green Bay Packers December 31 2017
+334,19-10,19,10,29,9,Philadelphia Eagles vs. Oakland Raiders December 25 2017
+335,34-6,34,6,40,28,Pittsburgh Steelers vs. Houston Texans December 25 2017
+336,23-13,23,13,36,10,New Orleans Saints vs. Atlanta Falcons December 24 2017
+337,26-17,26,17,43,9,Cincinnati Bengals vs. Detroit Lions December 24 2017
+338,37-16,37,16,53,21,New England Patriots vs. Buffalo Bills December 24 2017
+339,21-12,21,12,33,9,Seattle Seahawks vs. Dallas Cowboys December 24 2017
+340,27-11,27,11,38,16,Washington Redskins vs. Denver Broncos December 24 2017
+341,44-33,44,33,77,11,San Francisco 49ers vs. Jacksonville Jaguars December 24 2017
+342,42-7,42,7,49,35,Los Angeles Rams vs. Seattle Seahawks December 17 2017
+343,45-7,45,7,52,38,Jacksonville Jaguars vs. Houston Texans December 17 2017
+344,31-19,31,19,50,12,New Orleans Saints vs. New York Jets December 17 2017
+345,25-23,25,23,48,2,San Francisco 49ers vs. Tennessee Titans December 17 2017
+346,20-10,20,10,30,10,Detroit Lions vs. Chicago Bears December 16 2017
+347,30-13,30,13,43,17,Kansas City Chiefs vs. Los Angeles Chargers December 16 2017
+348,25-13,25,13,38,12,Denver Broncos vs. Indianapolis Colts December 14 2017
+349,13-7,13,7,20,6,Buffalo Bills vs. Indianapolis Colts December 10 2017
+350,12-7,12,7,19,5,Arizona Cardinals vs. Tennessee Titans December 10 2017
+351,39-38,39,38,77,1,Pittsburgh Steelers vs. Baltimore Ravens December 10 2017
+352,43-35,43,35,78,8,Philadelphia Eagles vs. Los Angeles Rams December 10 2017
+353,35-9,35,9,44,26,Miami Dolphins vs. Denver Broncos December 3 2017
+354,15-14,15,14,29,1,San Francisco 49ers vs. Chicago Bears December 3 2017
+355,44-20,44,20,64,24,Baltimore Ravens vs. Detroit Lions December 3 2017
+356,32-16,32,16,48,16,Los Angeles Rams vs. Arizona Cardinals December 3 2017
+357,21-14,21,14,35,7,Oakland Raiders vs. Denver Broncos November 26 2017
+358,28-6,28,6,34,22,Los Angeles Chargers vs. Dallas Cowboys November 23 2017
+359,24-7,24,7,31,17,Minnesota Vikings vs. Los Angeles Rams November 19 2017
+360,19-7,19,7,26,12,Jacksonville Jaguars vs. Cleveland Browns November 19 2017
+361,37-9,37,9,46,28,Philadelphia Eagles vs. Dallas Cowboys November 19 2017
+362,54-24,54,24,78,30,Los Angeles Chargers vs. Buffalo Bills November 19 2017
+363,33-8,33,8,41,25,New England Patriots vs. Oakland Raiders November 19 2017
+364,40-17,40,17,57,23,Pittsburgh Steelers vs. Tennessee Titans November 16 2017
+365,45-21,45,21,66,24,Carolina Panthers vs. Miami Dolphins November 13 2017
+366,27-7,27,7,34,20,Atlanta Falcons vs. Dallas Cowboys November 12 2017
+367,41-16,41,16,57,25,New England Patriots vs. Denver Broncos November 12 2017
+368,38-30,38,30,68,8,Minnesota Vikings vs. Washington Redskins November 12 2017
+369,47-10,47,10,57,37,New Orleans Saints vs. Buffalo Bills November 12 2017
+370,30-17,30,17,47,13,Detroit Lions vs. Green Bay Packers November 6 2017
+371,17-14,17,14,31,3,Washington Redskins vs. Seattle Seahawks November 5 2017
+372,23-7,23,7,30,16,Jacksonville Jaguars vs. Cincinnati Bengals November 5 2017
+373,28-17,28,17,45,11,Dallas Cowboys vs. Kansas City Chiefs November 5 2017
+374,51-23,51,23,74,28,Philadelphia Eagles vs. Denver Broncos November 5 2017
+375,51-17,51,17,68,34,Los Angeles Rams vs. New York Giants November 5 2017
+376,34-21,34,21,55,13,New York Jets vs. Buffalo Bills November 2 2017
+377,29-19,29,19,48,10,Kansas City Chiefs vs. Denver Broncos October 30 2017
+378,41-38,41,38,79,3,Seattle Seahawks vs. Houston Texans October 29 2017
+379,33-10,33,10,43,23,Philadelphia Eagles vs. San Francisco 49ers October 29 2017
+380,33-19,33,19,52,14,Dallas Cowboys vs. Washington Redskins October 29 2017
+381,40-0,40,0,40,40,Baltimore Ravens vs. Miami Dolphins October 26 2017
+382,27-0,27,0,27,27,Jacksonville Jaguars vs. Indianapolis Colts October 22 2017
+383,29-14,29,14,43,15,Pittsburgh Steelers vs. Cincinnati Bengals October 22 2017
+384,40-10,40,10,50,30,Dallas Cowboys vs. San Francisco 49ers October 22 2017
+385,36-22,36,22,58,14,Tennessee Titans vs. Indianapolis Colts October 16 2017
+386,38-33,38,33,71,5,Arizona Cardinals vs. Tampa Bay Buccaneers October 15 2017
+387,52-38,52,38,90,14,New Orleans Saints vs. Detroit Lions October 15 2017
+388,35-31,35,31,66,4,Green Bay Packers vs. Dallas Cowboys October 8 2017
+389,29-20,29,20,49,9,Kansas City Chiefs vs. Washington Redskins October 2 2017
+390,31-7,31,7,38,24,Cincinnati Bengals vs. Cleveland Browns October 1 2017
+391,20-0,20,0,20,20,New Orleans Saints vs. Miami Dolphins October 1 2017
+392,46-18,46,18,64,28,Seattle Seahawks vs. Indianapolis Colts October 1 2017
+393,57-14,57,14,71,43,Houston Texans vs. Tennessee Titans October 1 2017
+394,44-7,44,7,51,37,Jacksonville Jaguars vs. Baltimore Ravens September 24 2017
+395,36-33,36,33,69,3,New England Patriots vs. Houston Texans September 24 2017
+396,41-39,41,39,80,2,Los Angeles Rams vs. San Francisco 49ers September 21 2017
+397,29-7,29,7,36,22,Tampa Bay Buccaneers vs. Chicago Bears September 17 2017
+398,9-3,9,3,12,6,Carolina Panthers vs. Buffalo Bills September 17 2017
+399,45-20,45,20,65,25,Oakland Raiders vs. New York Jets September 17 2017
+400,19-3,19,3,22,16,Dallas Cowboys vs. New York Giants September 10 2017
+401,46-9,46,9,55,37,Los Angeles Rams vs. Indianapolis Colts September 10 2017
+402,42-27,42,27,69,15,Kansas City Chiefs vs. New England Patriots September 7 2017
+403,34-28,34,28,62,6,New England Patriots vs. Atlanta Falcons February 5 2017
+404,36-17,36,17,53,19,New England Patriots vs. Pittsburgh Steelers January 22 2017
+405,18-16,18,16,34,2,Pittsburgh Steelers vs. Kansas City Chiefs January 15 2017
+406,38-13,38,13,51,25,Green Bay Packers vs. New York Giants January 8 2017
+407,30-12,30,12,42,18,Pittsburgh Steelers vs. Miami Dolphins January 8 2017
+408,44-6,44,6,50,38,Arizona Cardinals vs. Los Angeles Rams January 1 2017
+409,38-32,38,32,70,6,Atlanta Falcons vs. New Orleans Saints January 1 2017
+410,41-21,41,21,62,20,Washington Redskins vs. Chicago Bears December 24 2016
+411,41-3,41,3,44,38,New England Patriots vs. New York Jets December 24 2016
+412,17-6,17,6,23,11,New York Giants vs. Detroit Lions December 18 2016
+413,27-26,27,26,53,1,Baltimore Ravens vs. Philadelphia Eagles December 18 2016
+414,41-13,41,13,54,28,Atlanta Falcons vs. San Francisco 49ers December 18 2016
+415,48-41,48,41,89,7,New Orleans Saints vs. Arizona Cardinals December 18 2016
+416,10-7,10,7,17,3,New York Giants vs. Dallas Cowboys December 11 2016
+417,42-14,42,14,56,28,Atlanta Falcons vs. Los Angeles Rams December 11 2016
+418,22-17,22,17,39,5,Houston Texans vs. Indianapolis Colts December 11 2016
+419,16-11,16,11,27,5,Tampa Bay Buccaneers vs. New Orleans Saints December 11 2016
+420,24-14,24,14,38,10,Pittsburgh Steelers vs. New York Giants December 4 2016
+421,32-14,32,14,46,18,Cincinnati Bengals vs. Philadelphia Eagles December 4 2016
+422,17-15,17,15,32,2,Dallas Cowboys vs. Minnesota Vikings December 1 2016
+423,49-21,49,21,70,28,New Orleans Saints vs. Los Angeles Rams November 27 2016
+424,38-19,38,19,57,19,Atlanta Falcons vs. Arizona Cardinals November 27 2016
+425,14-5,14,5,19,9,Tampa Bay Buccaneers vs. Seattle Seahawks November 27 2016
+426,28-7,28,7,35,21,Pittsburgh Steelers vs. Indianapolis Colts November 24 2016
+427,14-10,14,10,24,4,Miami Dolphins vs. Los Angeles Rams November 20 2016
+428,26-19,26,19,45,7,Detroit Lions vs. Jacksonville Jaguars November 20 2016
+429,24-15,24,15,39,9,Philadelphia Eagles vs. Atlanta Falcons November 13 2016
+430,36-10,36,10,46,26,Tampa Bay Buccaneers vs. Chicago Bears November 13 2016
+431,47-25,47,25,72,22,Tennessee Titans vs. Green Bay Packers November 13 2016
+432,31-25,31,25,56,6,Seattle Seahawks vs. Buffalo Bills November 7 2016
+433,35-10,35,10,45,25,Dallas Cowboys vs. Cleveland Browns November 6 2016
+434,41-23,41,23,64,18,New Orleans Saints vs. San Francisco 49ers November 6 2016
+435,43-28,43,28,71,15,Atlanta Falcons vs. Tampa Bay Buccaneers November 3 2016
+436,33-32,33,32,65,1,Atlanta Falcons vs. Green Bay Packers October 30 2016
+437,41-25,41,25,66,16,New England Patriots vs. Buffalo Bills October 30 2016
+438,21-10,21,10,31,11,Philadelphia Eagles vs. Minnesota Vikings October 23 2016
+439,6-6,6,6,12,0,Arizona Cardinals vs. Seattle Seahawks October 23 2016
+440,34-26,34,26,60,8,Indianapolis Colts vs. Tennessee Titans October 23 2016
+441,28-3,28,3,31,25,Arizona Cardinals vs. New York Jets October 17 2016
+442,45-16,45,16,61,29,Buffalo Bills vs. San Francisco 49ers October 16 2016
+443,30-19,30,19,49,11,Buffalo Bills vs. Los Angeles Rams October 9 2016
+444,33-21,33,21,54,12,Arizona Cardinals vs. San Francisco 49ers October 6 2016
+445,35-34,35,34,69,1,New Orleans Saints vs. San Diego Chargers October 2 2016
+446,43-14,43,14,57,29,Pittsburgh Steelers vs. Kansas City Chiefs October 2 2016
+447,48-33,48,33,81,15,Atlanta Falcons vs. Carolina Panthers October 2 2016
+448,22-7,22,7,29,15,Cincinnati Bengals vs. Miami Dolphins September 29 2016
+449,45-32,45,32,77,13,Atlanta Falcons vs. New Orleans Saints September 26 2016
+450,29-17,29,17,46,12,Denver Broncos vs. Cincinnati Bengals September 25 2016
+451,37-32,37,32,69,5,Los Angeles Rams vs. Tampa Bay Buccaneers September 25 2016
+452,35-28,35,28,63,7,Atlanta Falcons vs. Oakland Raiders September 18 2016
+453,19-12,19,12,31,7,Houston Texans vs. Kansas City Chiefs September 18 2016
+454,46-27,46,27,73,19,Carolina Panthers vs. San Francisco 49ers September 18 2016
+455,28-0,28,0,28,28,San Francisco 49ers vs. Los Angeles Rams September 12 2016
+456,38-16,38,16,54,22,Pittsburgh Steelers vs. Washington Redskins September 12 2016
+457,23-14,23,14,37,9,Houston Texans vs. Chicago Bears September 11 2016
+458,29-10,29,10,39,19,Philadelphia Eagles vs. Cleveland Browns September 11 2016
+459,39-35,39,35,74,4,Detroit Lions vs. Indianapolis Colts September 11 2016
+460,20-18,20,18,38,2,Denver Broncos vs. New England Patriots January 24 2016
+461,49-15,49,15,64,34,Carolina Panthers vs. Arizona Cardinals January 24 2016
+462,10-9,10,9,19,1,Seattle Seahawks vs. Minnesota Vikings January 10 2016
+463,35-18,35,18,53,17,Green Bay Packers vs. Washington Redskins January 10 2016
+464,30-0,30,0,30,30,Kansas City Chiefs vs. Houston Texans January 9 2016
+465,36-6,36,6,42,30,Seattle Seahawks vs. Arizona Cardinals January 3 2016
+466,49-17,49,17,66,32,Minnesota Vikings vs. New York Giants December 27 2015
+467,32-17,32,17,49,15,Detroit Lions vs. San Francisco 49ers December 27 2015
+468,38-8,38,8,46,30,Arizona Cardinals vs. Green Bay Packers December 27 2015
+469,35-25,35,25,60,10,Washington Redskins vs. Buffalo Bills December 20 2015
+470,38-0,38,0,38,38,Carolina Panthers vs. Atlanta Falcons December 13 2015
+471,33-20,33,20,53,13,Pittsburgh Steelers vs. Cincinnati Bengals December 13 2015
+472,15-12,15,12,27,3,Oakland Raiders vs. Denver Broncos December 13 2015
+473,35-6,35,6,41,29,Seattle Seahawks vs. Baltimore Ravens December 13 2015
+474,30-8,30,8,38,22,New York Jets vs. Tennessee Titans December 13 2015
+475,51-16,51,16,67,35,Jacksonville Jaguars vs. Indianapolis Colts December 13 2015
+476,30-21,30,21,51,9,Buffalo Bills vs. Houston Texans December 6 2015
+477,23-19,23,19,42,4,Tampa Bay Buccaneers vs. Atlanta Falcons December 6 2015
+478,37-3,37,3,40,34,Cincinnati Bengals vs. Cleveland Browns December 6 2015
+479,42-39,42,39,81,3,Tennessee Titans vs. Jacksonville Jaguars December 6 2015
+480,25-12,25,12,37,13,Indianapolis Colts vs. Tampa Bay Buccaneers November 29 2015
+481,39-30,39,30,69,9,Seattle Seahawks vs. Pittsburgh Steelers November 29 2015
+482,45-14,45,14,59,31,Detroit Lions vs. Philadelphia Eagles November 26 2015
+483,45-17,45,17,62,28,Tampa Bay Buccaneers vs. Philadelphia Eagles November 22 2015
+484,18-13,18,13,31,5,Detroit Lions vs. Oakland Raiders November 22 2015
+485,44-16,44,16,60,28,Carolina Panthers vs. Washington Redskins November 22 2015
+486,10-6,10,6,16,4,Houston Texans vs. Cincinnati Bengals November 16 2015
+487,37-13,37,13,50,24,Chicago Bears vs. St. Louis Rams November 15 2015
+488,22-20,22,20,42,2,Jacksonville Jaguars vs. Baltimore Ravens November 15 2015
+489,47-14,47,14,61,33,Washington Redskins vs. New Orleans Saints November 15 2015
+490,39-32,39,32,71,7,Arizona Cardinals vs. Seattle Seahawks November 15 2015
+491,37-29,37,29,66,8,Carolina Panthers vs. Green Bay Packers November 8 2015
+492,32-18,32,18,50,14,New York Giants vs. Tampa Bay Buccaneers November 8 2015
+493,31-10,31,10,41,21,Cincinnati Bengals vs. Cleveland Browns November 5 2015
+494,52-49,52,49,101,3,New Orleans Saints vs. New York Giants November 1 2015
+495,28-19,28,19,47,9,Minnesota Vikings vs. Detroit Lions October 25 2015
+496,44-26,44,26,70,18,Miami Dolphins vs. Houston Texans October 25 2015
+497,18-17,18,17,35,1,Chicago Bears vs. Kansas City Chiefs October 11 2015
+498,25-19,25,19,44,6,Atlanta Falcons vs. Washington Redskins October 11 2015
+499,39-17,39,17,56,22,Philadelphia Eagles vs. New Orleans Saints October 11 2015
+500,48-21,48,21,69,27,Atlanta Falcons vs. Houston Texans October 4 2015
+501,37-23,37,23,60,14,Carolina Panthers vs. Tampa Bay Buccaneers October 4 2015
+502,31-14,31,14,45,17,Minnesota Vikings vs. San Diego Chargers September 27 2015
+503,41-14,41,14,55,27,Buffalo Bills vs. Miami Dolphins September 27 2015
+504,26-0,26,0,26,26,Seattle Seahawks vs. Chicago Bears September 27 2015
+505,12-6,12,6,18,6,Pittsburgh Steelers vs. St. Louis Rams September 27 2015
+506,35-33,35,33,68,2,Indianapolis Colts vs. Tennessee Titans September 27 2015
+507,47-7,47,7,54,40,Arizona Cardinals vs. San Francisco 49ers September 27 2015
+508,39-28,39,28,67,11,Atlanta Falcons vs. Dallas Cowboys September 27 2015
+509,48-23,48,23,71,25,Arizona Cardinals vs. Chicago Bears September 20 2015
+510,37-33,37,33,70,4,Oakland Raiders vs. Baltimore Ravens September 20 2015
+511,40-32,40,32,72,8,New England Patriots vs. Buffalo Bills September 20 2015
+512,43-18,43,18,61,25,Pittsburgh Steelers vs. San Francisco 49ers September 20 2015
+513,20-9,20,9,29,11,Carolina Panthers vs. Jacksonville Jaguars September 13 2015
+514,37-24,37,24,61,13,New York Jets vs. Miami Dolphins December 28 2014
+515,44-17,44,17,61,27,Dallas Cowboys vs. Washington Redskins December 28 2014
+516,37-35,37,35,72,2,Miami Dolphins vs. Minnesota Vikings December 21 2014
+517,25-24,25,24,49,1,Indianapolis Colts vs. Cleveland Browns December 7 2014
+518,29-16,29,16,45,13,Denver Broncos vs. Kansas City Chiefs November 30 2014
+519,52-0,52,0,52,52,St. Louis Rams vs. Oakland Raiders November 30 2014
+520,49-27,49,27,76,22,Indianapolis Colts vs. Washington Redskins November 30 2014
+521,29-18,29,18,47,11,Atlanta Falcons vs. Arizona Cardinals November 30 2014
+522,34-9,34,9,43,25,New England Patriots vs. Detroit Lions November 23 2014
+523,43-24,43,24,67,19,Philadelphia Eagles vs. Tennessee Titans November 23 2014
+524,39-36,39,36,75,3,Denver Broncos vs. Miami Dolphins November 23 2014
+525,14-6,14,6,20,8,Arizona Cardinals vs. Detroit Lions November 16 2014
+526,53-20,53,20,73,33,Green Bay Packers vs. Philadelphia Eagles November 16 2014
+527,22-9,22,9,31,13,Miami Dolphins vs. Buffalo Bills November 13 2014
+528,55-14,55,14,69,41,Green Bay Packers vs. Chicago Bears November 9 2014
+529,40-24,40,24,64,16,Indianapolis Colts vs. New York Giants November 3 2014
+530,37-0,37,0,37,37,Miami Dolphins vs. San Diego Chargers November 2 2014
+531,43-23,43,23,66,20,Pittsburgh Steelers vs. Baltimore Ravens November 2 2014
+532,43-21,43,21,64,22,New England Patriots vs. Denver Broncos November 2 2014
+533,44-23,44,23,67,21,New Orleans Saints vs. Green Bay Packers October 26 2014
+534,51-34,51,34,85,17,Pittsburgh Steelers vs. Indianapolis Colts October 26 2014
+535,35-21,35,21,56,14,Denver Broncos vs. San Diego Chargers October 23 2014
+536,27-25,27,25,52,2,New England Patriots vs. New York Jets October 16 2014
+537,37-22,37,22,59,15,New England Patriots vs. Buffalo Bills October 12 2014
+538,37-37,37,37,74,0,Carolina Panthers vs. Cincinnati Bengals October 12 2014
+539,41-20,41,20,61,21,Denver Broncos vs. Arizona Cardinals October 5 2014
+540,43-17,43,17,60,26,New England Patriots vs. Cincinnati Bengals October 5 2014
+541,16-9,16,9,25,7,New England Patriots vs. Oakland Raiders September 21 2014
+542,34-15,34,15,49,19,Kansas City Chiefs vs. Miami Dolphins September 21 2014
+543,56-14,56,14,70,42,Atlanta Falcons vs. Tampa Bay Buccaneers September 18 2014
+544,30-7,30,7,37,23,New England Patriots vs. Minnesota Vikings September 14 2014
+545,25-14,25,14,39,11,Arizona Cardinals vs. New York Giants September 14 2014
+546,36-16,36,16,52,20,Seattle Seahawks vs. Green Bay Packers September 4 2014
+547,43-8,43,8,51,35,Seattle Seahawks vs. Denver Broncos February 2 2014
+548,23-15,23,15,38,8,Seattle Seahawks vs. New Orleans Saints January 11 2014
+549,43-22,43,22,65,21,New England Patriots vs. Indianapolis Colts January 11 2014
+550,45-44,45,44,89,1,Indianapolis Colts vs. Kansas City Chiefs January 4 2014
+551,19-0,19,0,19,19,Buffalo Bills vs. Miami Dolphins December 22 2013
+552,54-11,54,11,65,43,Philadelphia Eagles vs. Chicago Bears December 22 2013
+553,25-3,25,3,28,22,Indianapolis Colts vs. Houston Texans December 15 2013
+554,48-30,48,30,78,18,Minnesota Vikings vs. Philadelphia Eagles December 15 2013
+555,56-31,56,31,87,25,Kansas City Chiefs vs. Oakland Raiders December 15 2013
+556,45-28,45,28,73,17,Chicago Bears vs. Dallas Cowboys December 9 2013
+557,37-14,37,14,51,23,San Diego Chargers vs. New York Giants December 8 2013
+558,51-28,51,28,79,23,Denver Broncos vs. Tennessee Titans December 8 2013
+559,26-26,26,26,52,0,Green Bay Packers vs. Minnesota Vikings November 24 2013
+560,40-11,40,11,51,29,Arizona Cardinals vs. Indianapolis Colts November 24 2013
+561,49-20,49,20,69,29,Philadelphia Eagles vs. Oakland Raiders November 3 2013
+562,55-31,55,31,86,24,New England Patriots vs. Pittsburgh Steelers November 3 2013
+563,15-7,15,7,22,8,New York Giants vs. Philadelphia Eagles October 27 2013
+564,44-31,44,31,75,13,Green Bay Packers vs. Minnesota Vikings October 27 2013
+565,49-9,49,9,58,40,Cincinnati Bengals vs. New York Jets October 27 2013
+566,45-41,45,41,86,4,Washington Redskins vs. Chicago Bears October 20 2013
+567,39-33,39,33,72,6,Indianapolis Colts vs. Denver Broncos October 20 2013
+568,31-16,31,16,47,15,Dallas Cowboys vs. Washington Redskins October 13 2013
+569,19-6,19,6,25,13,Pittsburgh Steelers vs. New York Jets October 13 2013
+570,35-19,35,19,54,16,Denver Broncos vs. Jacksonville Jaguars October 13 2013
+571,32-20,32,20,52,12,San Francisco 49ers vs. Arizona Cardinals October 13 2013
+572,51-48,51,48,99,3,Denver Broncos vs. Dallas Cowboys October 6 2013
+573,52-20,52,20,72,32,Denver Broncos vs. Philadelphia Eagles September 29 2013
+574,40-23,40,23,63,17,Chicago Bears vs. Pittsburgh Steelers September 22 2013
+575,25-21,25,21,46,4,Arizona Cardinals vs. Detroit Lions September 15 2013
+576,28-2,28,2,30,26,Kansas City Chiefs vs. Jacksonville Jaguars September 8 2013
+577,45-31,45,31,76,14,San Francisco 49ers vs. Green Bay Packers January 12 2013
+578,28-9,28,9,37,19,Buffalo Bills vs. New York Jets December 30 2012
+579,23-6,23,6,29,17,Minnesota Vikings vs. Houston Texans December 23 2012
+580,42-13,42,13,55,29,Seattle Seahawks vs. San Francisco 49ers December 23 2012
+581,34-12,34,12,46,22,Denver Broncos vs. Cleveland Browns December 23 2012
+582,55-7,55,7,62,48,Green Bay Packers vs. Tennessee Titans December 23 2012
+583,31-18,31,18,49,13,Atlanta Falcons vs. Detroit Lions December 22 2012
+584,38-21,38,21,59,17,Washington Redskins vs. Cleveland Browns December 16 2012
+585,41-0,41,0,41,41,New Orleans Saints vs. Tampa Bay Buccaneers December 16 2012
+586,15-0,15,0,15,15,Oakland Raiders vs. Kansas City Chiefs December 16 2012
+587,41-34,41,34,75,7,San Francisco 49ers vs. New England Patriots December 16 2012
+588,50-17,50,17,67,33,Seattle Seahawks vs. Buffalo Bills December 16 2012
+589,58-0,58,0,58,58,Seattle Seahawks vs. Arizona Cardinals December 9 2012
+590,52-27,52,27,79,25,New York Giants vs. New Orleans Saints December 9 2012
+591,7-6,7,6,13,1,New York Jets vs. Arizona Cardinals December 2 2012
+592,34-18,34,18,52,16,Buffalo Bills vs. Jacksonville Jaguars December 2 2012
+593,49-19,49,19,68,30,New England Patriots vs. New York Jets November 22 2012
+594,32-7,32,7,39,25,San Francisco 49ers vs. Chicago Bears November 19 2012
+595,59-24,59,24,83,35,New England Patriots vs. Indianapolis Colts November 18 2012
+596,24-24,24,24,48,0,St. Louis Rams vs. San Francisco 49ers November 11 2012
+597,38-23,38,23,61,15,Dallas Cowboys vs. Philadelphia Eagles November 11 2012
+598,36-14,36,14,50,22,Denver Broncos vs. Carolina Panthers November 11 2012
+599,55-20,55,20,75,35,Baltimore Ravens vs. Oakland Raiders November 11 2012
+600,25-15,25,15,40,10,Baltimore Ravens vs. Cleveland Browns November 4 2012
+601,42-32,42,32,74,10,Tampa Bay Buccaneers vs. Oakland Raiders November 4 2012
+602,51-20,51,20,71,31,Chicago Bears vs. Tennessee Titans November 4 2012
+603,27-12,27,12,39,15,Pittsburgh Steelers vs. Washington Redskins October 28 2012
+604,31-29,31,29,60,2,Baltimore Ravens vs. Dallas Cowboys October 14 2012
+605,38-26,38,26,64,12,Washington Redskins vs. Minnesota Vikings October 14 2012
+606,41-27,41,27,68,14,New York Giants vs. Cleveland Browns October 7 2012
+607,45-3,45,3,48,42,San Francisco 49ers vs. Buffalo Bills October 7 2012
+608,37-6,37,6,43,31,Denver Broncos vs. Oakland Raiders September 30 2012
+609,52-28,52,28,80,24,New England Patriots vs. Buffalo Bills September 30 2012
+610,14-12,14,12,26,2,Seattle Seahawks vs. Green Bay Packers September 24 2012
+611,44-41,44,41,85,3,Tennessee Titans vs. Detroit Lions September 23 2012
+612,35-13,35,13,48,22,Miami Dolphins vs. Oakland Raiders September 16 2012
+613,44-13,44,13,57,31,Baltimore Ravens vs. Cincinnati Bengals September 10 2012
+614,48-28,48,28,76,20,New York Jets vs. Buffalo Bills September 9 2012
+615,36-32,36,32,68,4,San Francisco 49ers vs. New Orleans Saints January 14 2012
+616,24-2,24,2,26,22,New York Giants vs. Atlanta Falcons January 8 2012
+617,7-3,7,3,10,4,Kansas City Chiefs vs. Denver Broncos January 1 2012
+618,45-24,45,24,69,21,Atlanta Falcons vs. Tampa Bay Buccaneers January 1 2012
+619,48-16,48,16,64,32,Carolina Panthers vs. Tampa Bay Buccaneers December 24 2011
+620,33-26,33,26,59,7,Minnesota Vikings vs. Washington Redskins December 24 2011
+621,45-19,45,19,64,26,Philadelphia Eagles vs. New York Jets December 18 2011
+622,46-16,46,16,62,30,Green Bay Packers vs. Oakland Raiders December 11 2011
+623,14-3,14,3,17,11,Pittsburgh Steelers vs. Cleveland Browns December 8 2011
+624,35-7,35,7,42,28,Pittsburgh Steelers vs. Cincinnati Bengals December 4 2011
+625,34-19,34,19,53,15,New York Jets vs. Washington Redskins December 4 2011
+626,49-24,49,24,73,25,New Orleans Saints vs. New York Giants November 28 2011
+627,27-15,27,15,42,12,Green Bay Packers vs. Detroit Lions November 24 2011
+628,35-26,35,26,61,9,Green Bay Packers vs. Tampa Bay Buccaneers November 20 2011
+629,35-8,35,8,43,27,Miami Dolphins vs. Buffalo Bills November 20 2011
+630,49-35,49,35,84,14,Detroit Lions vs. Carolina Panthers November 20 2011
+631,30-3,30,3,33,27,Tennessee Titans vs. Carolina Panthers November 13 2011
+632,45-38,45,38,83,7,Green Bay Packers vs. San Diego Chargers November 6 2011
+633,6-3,6,3,9,3,Cleveland Browns vs. Seattle Seahawks October 23 2011
+634,62-7,62,7,69,55,New Orleans Saints vs. Indianapolis Colts October 23 2011
+635,48-3,48,3,51,45,San Francisco 49ers vs. Tampa Bay Buccaneers October 9 2011
+636,49-23,49,23,72,26,Green Bay Packers vs. Denver Broncos October 2 2011
+637,37-7,37,7,44,30,Baltimore Ravens vs. St. Louis Rams September 25 2011
+638,13-8,13,8,21,5,San Francisco 49ers vs. Cincinnati Bengals September 25 2011
+639,32-3,32,3,35,29,New York Jets vs. Jacksonville Jaguars September 18 2011
+640,41-36,41,36,77,5,Seattle Seahawks vs. New Orleans Saints January 8 2011
+641,38-34,38,34,72,4,Chicago Bears vs. New York Jets December 26 2010
+642,38-15,38,15,53,23,Tampa Bay Buccaneers vs. Seattle Seahawks December 26 2010
+643,39-23,39,23,62,16,Oakland Raiders vs. Denver Broncos December 19 2010
+644,21-3,21,3,24,18,New York Giants vs. Minnesota Vikings December 13 2010
+645,40-21,40,21,61,19,San Francisco 49ers vs. Seattle Seahawks December 12 2010
+646,49-31,49,31,80,18,Buffalo Bills vs. Cincinnati Bengals November 21 2010
+647,59-28,59,28,87,31,Philadelphia Eagles vs. Washington Redskins November 15 2010
+648,39-26,39,26,65,13,New England Patriots vs. Pittsburgh Steelers November 14 2010
+649,49-29,49,29,78,20,Denver Broncos vs. Kansas City Chiefs November 14 2010
+650,36-18,36,18,54,18,Seattle Seahawks vs. Arizona Cardinals November 14 2010
+651,37-25,37,25,62,12,Detroit Lions vs. Washington Redskins October 31 2010
+652,59-14,59,14,73,45,Oakland Raiders vs. Denver Broncos October 24 2010
+653,15-9,15,9,24,6,Pittsburgh Steelers vs. Atlanta Falcons September 12 2010
+654,51-45,51,45,96,6,Arizona Cardinals vs. Green Bay Packers January 10 2010
+655,44-24,44,24,68,20,Kansas City Chiefs vs. Denver Broncos January 3 2010
