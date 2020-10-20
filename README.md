@@ -1,6 +1,8 @@
 # paradigmsFinalProject
 Port number: 51087
 
+The webservice can be used to make GET, PUT, DELETE, and POST requests. Users can access the data, delete data, edit data, and add new data entries.
+
 OO API
 The API is used to manage the database of football scores.
 Test script - test_football.py
