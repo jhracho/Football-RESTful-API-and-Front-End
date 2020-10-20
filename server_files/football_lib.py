@@ -45,6 +45,7 @@ class _football_API:
         fid = int(fid)
         try:
             gameDict = dict()
+            gameDict['id'] = str(fid)
             gameDict['teams']  = self.teams[fid]
             gameDict['date']  = self.dates[fid]
             gameDict['finalScore'] = self.final_scores[fid]
@@ -55,7 +56,7 @@ class _football_API:
 
         except Exception as ex:
             gameDict = None
-            print('exception ', ex)
+            #print('exception ', ex)
         
         return gameDict
 
