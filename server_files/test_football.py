@@ -33,54 +33,69 @@ class TestFootball(unittest.TestCase):
 
     def test_get_index(self):
         self.reset_data()
+        fid = 19
         r = requests.get(self.FOOTBALL_URL)
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
-        #print(resp)i
         testgame = {}
         
-        #for game in resp['games']:
-            #if game['id'] == '20':
-                #testgame = game
-
-        testgame['totalScore'] = resp['games'][19]['totalScore']
-        testgame['winnerScore'] = resp['games'][19]['winnerScore']
+        testgame['totalScore'] = resp['games'][fid]['totalScore']
+        testgame['winnerScore'] = resp['games'][fid]['winnerScore']
 
         self.assertEqual(testgame['totalScore'], '37')
         self.assertEqual(testgame['winnerScore'], '21')
 
-    def test_put_key(self):
+    def test_put_key_update(self):
         self.reset_data()
-        fid = 20
-
-        r = requests.get(self.FOOTBALL_URL + str(fid))
-        self.assertTrue(self.is_json(r.content.decode('utf-8')))
+        fid = '20'
 
         m = {}
         m['finalScore'] = '20-10'
         m['winnerScore'] = '20'
         m['loserScore'] = '10'
         
-        r = requests.put(self.FOOTBALL_URL + str(fid), data = json.dumps(m))
+        r = requests.put(self.FOOTBALL_URL + fid, data = json.dumps(m))
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'success')
 
-        r = requests.get(self.FOOTBALL_URL + str(fid))
+        r = requests.get(self.FOOTBALL_URL + fid)
+        resp = json.loads(r.content.decode('utf-8'))
+        self.assertEqual(resp['result'], 'success')
+        self.assertEqual(resp['data']['finalScore'], '20-10')
+        self.assertEqual(resp['data']['pointDiff'], '10')
+
+    def test_put_key_reset(self):
+        self.reset_data()
+        fid = '20'
+
+        n = {}
+        m = {}
+        m['finalScore'] = '20-10'
+        m['winnerScore'] = '20'
+        m['loserScore'] = '10'
+
+        r = requests.put(self.FOOTBALL_URL + fid, data = json.dumps(m))
+        r = requests.put(self.RESET_URL + fid, data = json.dumps(n))
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'success')
+        
+        r = requests.get(self.FOOTBALL_URL + fid)
+        resp = json.loads(r.content.decode('utf-8'))
+        self.assertEqual(resp['data']['finalScore'], '21-16')
+        self.assertEqual(resp['data']['pointDiff'], '5')
 
     def test_put_index(self):
         self.reset_data()
-        fid = 20
+        fid = '20'
         m = {}
         
         n = {}
         n['finalScore'] = '20-10'
         n['winnerScore'] = '20'
         n['loserScore'] = '10'
-        r = requests.put(self.FOOTBALL_URL + '21', data = json.dumps(n))
+        r = requests.put(self.FOOTBALL_URL + fid, data = json.dumps(n))
 
         r = requests.put(self.RESET_URL, data = json.dumps(m))
 
@@ -88,19 +103,19 @@ class TestFootball(unittest.TestCase):
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'success')
-        self.assertEqual(resp['data']['finalScore'], '31-30')
+        self.assertEqual(resp['games'][int(fid)]['finalScore'], '31-30')
 
     def test_delete_key(self):
         self.reset_data()
-        fid = 20
+        fid = '20'
 
         m = {}
-        r = requests.delete(self.FOOTBALL_URL + str(fid), data = json.dumps(m))
+        r = requests.delete(self.FOOTBALL_URL + fid, data = json.dumps(m))
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'success')
 
-        r = requests.get(self.FOOTBALL_URL + str(fid))
+        r = requests.get(self.FOOTBALL_URL + fid)
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'error')
@@ -118,7 +133,7 @@ class TestFootball(unittest.TestCase):
         r = requests.get(self.FOOTBALL_URL)
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
-        scores = resp['data']
+        scores = resp['games']
         self.assertFalse(scores)
 
     def test_post_index(self):

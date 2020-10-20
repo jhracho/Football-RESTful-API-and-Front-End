@@ -18,16 +18,17 @@ class ResetController(object):
 
 	def PUT_KEY(self, fid):
 		output = {'result':'success'}
+		fid = int(fid)
 	
 		try:
 			fDatTmp = _football_API()
-			fDatTmp.load_movies('gameData.csv')
-			fDat.final_scores[fid] = fDatTmp.final_scores[fid]
-			fDat.winning_scores[fid] = fDatTmp.winning_scores[fid]
-			fDat.losing_scores[fid] = fDatTmp.losing_scores[fid]
-			fDat.point_diffs[fid] = fDatTmp.point_diffs[fid]
-			fDat.teams[fid] = fDatTmp.teams[fid]
-			fDat.dates[fid] = fDatTmp.dates[fid]
+			fDatTmp.load_data('gameData.csv')
+			self.fDat.final_scores[fid] = fDatTmp.final_scores[fid]
+			self.fDat.winning_scores[fid] = fDatTmp.winning_scores[fid]
+			self.fDat.losing_scores[fid] = fDatTmp.losing_scores[fid]
+			self.fDat.point_diffs[fid] = fDatTmp.point_diffs[fid]
+			self.fDat.teams[fid] = fDatTmp.teams[fid]
+			self.fDat.dates[fid] = fDatTmp.dates[fid]
 		
 		except Exception as ex:
 			output['result'] = 'error'

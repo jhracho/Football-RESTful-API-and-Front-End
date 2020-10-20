@@ -56,56 +56,8 @@ class _football_API:
 
         except Exception as ex:
             gameDict = None
-            #print('exception ', ex)
         
         return gameDict
-
-    # Filter games for a specific score
-    def filter_score(self, search):
-        results = list()
-        fid = 1
-        for score in self.final_scores:
-            if score == search:
-                gameDict = game_toDict(fid)
-                results.append(gameDict)
-            fid += 1
-        if (len(results) == 0):
-            gameString = "ERROR: No games with score " + search + " found..."
-            results.append(gameString)
-        return results
-
-    # Filters games for a specific total score
-    def filter_total(self, search):
-        results = list()
-        fid = 1
-        for total in self.total_scores:
-            if total == search:
-                gameDict = game_toDict(fid)
-                results.append(gameDict)
-            fid += 1
-        if (len(results) == 0):
-            gameDict = "ERROR: No games with total score" + search + " found..."
-            results.append(gameDict)
-        return results
-
-    # Filters games for a specific team for a specific season
-    def filter_team_season(self, team, season):
-        results = list()
-        fid = 1
-        if season < 2010 or season > 2020:
-            gameDict = "ERROR: Invalid season... data available from 2010-2020"
-            results.append(gameDict)
-            return results
-        for game in self.teams:
-            date = self.dates[fid]
-            if team in game and season in date:
-                gameDict = game_toDict(fid)
-                results.append(gameDict)
-            fid += 1
-        if (len(results) == 0):
-            gameDict = "ERROR: No games involving the " + team + " found..."
-            results.append(gameDict)
-        return results
 
     # Deletes a particular game from data set
     def delete_game(self, fid):
@@ -126,8 +78,8 @@ class _football_API:
         self.final_scores[fid] = score[0]
         self.winning_scores[fid] = score[1]
         self.losing_scores[fid] = score[2]
-        self.total_scores[fid] = int(score[1]) + int(score[2])
-        self.point_diffs[fid] = int(score[1]) - int(score[2])
+        self.total_scores[fid] = str(int(score[1]) + int(score[2]))
+        self.point_diffs[fid] = str(int(score[1]) - int(score[2]))
     
     # Creates new game and appends to the dictionaries
     def set_game(self, fid, game):
