@@ -61,7 +61,7 @@ class FootballController(object):
     def DELETE_INDEX(self):
         output = {'result':'success'}
         try:
-            for game in range(1, self.fDat.get_games()+1):
+            for fid in range(1, self.fDat.get_games()+1):
                 self.fDat.delete_game(fid)
         except Exception as ex:
             output['result'] = 'error'
