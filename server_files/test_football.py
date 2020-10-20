@@ -11,7 +11,7 @@ class TestFootball(unittest.TestCase):
 
     def reset_data(self):
         m = ()
-        r = requests.post(self.RESET_URL, data = json.dumps(m))
+        r = requests.put(self.RESET_URL, data = json.dumps(m))
 
     def is_json(self, resp):
         try:
@@ -22,27 +22,32 @@ class TestFootball(unittest.TestCase):
 
     def test_get_key(self):
         self.reset_data()
-        fid = 20
-        r = requests.get(self.FOOTBALL_URL + str(fid))
+        fid = '15'
+        r = requests.get(self.FOOTBALL_URL + fid)
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
+
+        self.assertEqual(resp['data']['id'], fid)
+        self.assertEqual(resp['data']['totalScore'], '65')
         self.assertEqual(resp['result'], 'success')
-        self.assertEqual(resp['id'], fid)
-        self.assertEqual(resp['data']['totalScore'], '37')
 
     def test_get_index(self):
         self.reset_data()
         r = requests.get(self.FOOTBALL_URL)
         self.assertTrue(self.is_json(r.content.decode('utf-8')))
         resp = json.loads(r.content.decode('utf-8'))
-
+        #print(resp)i
         testgame = {}
-        for game in resp:
-            if game['id'] == 20:
-                testgame = game
+        
+        #for game in resp['games']:
+            #if game['id'] == '20':
+                #testgame = game
 
-        self.assertEqual(testgame['data']['totalScore'], '37')
-        self.assertEqual(testgame['data']['winnerScore'], '21')
+        testgame['totalScore'] = resp['games'][19]['totalScore']
+        testgame['winnerScore'] = resp['games'][19]['winnerScore']
+
+        self.assertEqual(testgame['totalScore'], '37')
+        self.assertEqual(testgame['winnerScore'], '21')
 
     def test_put_key(self):
         self.reset_data()
@@ -100,6 +105,7 @@ class TestFootball(unittest.TestCase):
         resp = json.loads(r.content.decode('utf-8'))
         self.assertEqual(resp['result'], 'error')
 
+    # We are catching the exception in DELETE_INDEX
     def test_delete_index(self):
         self.reset_data()
 
@@ -139,3 +145,5 @@ class TestFootball(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# vim: set sts=4 sw=4 ts=8 expandtab ft=python:
