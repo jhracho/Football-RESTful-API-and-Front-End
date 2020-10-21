@@ -1,15 +1,17 @@
 # paradigmsFinalProject
 Port number: 51087
 
+## Overview
 The webservice can be used to make GET, PUT, DELETE, and POST requests. Users can access the data, delete data, edit data, and add new data entries.
 
-OO API
-The API is used to manage the database of football scores.
-Test API script        - test_api.py
-Test Web Server script - test_ws.py
-To run the tests:
-run server.py in one terminal on student05 (python3 server.py)
-run test_api.py or test_ws.py in another terminal (python3 test_api.py/test_ws.py)
+##OO API
+The API is used to manage the database of football scores.\
+Test API script        - test_api.py\
+Test Web Server script - test_ws.py\
+
+##Testing:
+run server.py in one terminal on student05 (python3 server.py)\
+run test_api.py or test_ws.py in another terminal (python3 test_api.py/test_ws.py)\
 
 Request Type		Request Endpoint			Request Body			Expected Response						Inner Handler Working
 GET					/scores/:fid				No body					Formatted string of game w/ fid			GET_KEY: Searches the dicts for the specific fid and returns data
