@@ -11,7 +11,7 @@ Test API script - test_api.py\
 Test Web Server script - test_ws.py
 
 ## Testing
-run server.py in one terminal on student05
+run server.py in one terminal on student04
 ```bash
 python3 server.py
 ```
