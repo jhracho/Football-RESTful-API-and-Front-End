@@ -36,7 +36,8 @@
         <div class="form-group">
             <label for="checkboxes">Filter by:</label>
             <select class="form-control" id="select-filter-type">
-                <option>Team and Season</option>
+                <option>Team</option>
+				<option>Season</option>
                 <option>Score</option>
 				<option>Total Points</option>
                 <option>Specific Game ID</option>
@@ -46,6 +47,10 @@
             <label id="label-enter" for="tex-input">Enter filter criteria</label>
             <input name="text-input" type="text" class="form-control" id="filter-criteria">
         </div>
+		<div class="form-group">
+			<button type="reset" class="btn btn-default" id="clear-button">Clear</button>
+			<button type="submit" class="btn btn-default" id="filter-button">Filter</button>				
+		</div>
         <!-- </form> -->
         <div>
             <label id="response-label">Filtered Data:</label>
@@ -53,7 +58,6 @@
 
         <div>
             <label id="answer-label1"></label>
-            <label id="answer-label2"></label>
         </div>
 
     </div>
