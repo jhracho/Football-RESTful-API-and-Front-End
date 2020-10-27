@@ -43,7 +43,6 @@ function filterResponse(response){
 }
 
 function filterTeam(response, criteria){
-	//var textBody = document.getElementById("answer-label");
 	var found = false;	
 	for (i = 0; i < response["games"].length; i++){
 		var tag = document.createElement("p");
