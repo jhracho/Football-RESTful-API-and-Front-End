@@ -5,6 +5,15 @@ from footballController import FootballController
 from resetController import ResetController
 from football_lib import _football_API
 
+class OptionsController:
+    def OPTIONS(self, *args, **kwargs):
+        return ""
+
+def CORS():
+    cherrypy.response.headers["Access-Control-Allow-Origin"] = "*"
+    cherrypy.response.headers["Access-Control-Allow-Methods"] = "GET, PUT, POST, DELETE, OPTIONS"
+    cherrypy.response.headers["Access-Control-Allow-Credentials"] = "true"
+
 def start_service():
     # Initialization
     dispatcher = cherrypy.dispatch.RoutesDispatcher()
@@ -13,6 +22,7 @@ def start_service():
     # Establish Controllers
     footballController = FootballController(fDat=fDat)
     resetController    = ResetController(fDat=fDat)
+    optionsController  = OptionsController()
 
     # Dispatcher Connections
     dispatcher.connect('score_get', '/scores/:fid', controller=footballController, action='GET_KEY', conditions=dict(method=['GET']))
@@ -24,6 +34,9 @@ def start_service():
     dispatcher.connect('put_game', '/scores/:fid', controller=footballController, action='PUT_KEY', conditions=dict(method=['PUT']))
     dispatcher.connect('post_index', '/scores/', controller=footballController, action='POST_INDEX', conditions=dict(method=['POST']))
 
+    dispatcher.connect('score_key_options', '/scores/:fid', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
+    dispatcher.connect('score_options', '/scores/', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
+
     # Server Configuration
     conf = {
         'global' : {
@@ -33,6 +46,7 @@ def start_service():
         },
         '/' : {
             'request.dispatch' : dispatcher,
+            'tools.CORS.on': True
         }
     }
 
@@ -42,4 +56,5 @@ def start_service():
     cherrypy.quickstart(app)
 
 if __name__ == '__main__':
+    cherrypy.tools.CORS = cherrypy.Tool('before_finalize', CORS)
     start_service()
