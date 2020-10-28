@@ -36,6 +36,8 @@ def start_service():
 
     dispatcher.connect('score_key_options', '/scores/:fid', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
     dispatcher.connect('score_options', '/scores/', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
+    dispatcher.connect('reset_key_options', '/reset/:fid', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
+    dispatcher.connect('reset_options', '/reset/', controller=optionsController, action='OPTIONS', conditions=dict(method=['OPTIONS']))
 
     # Server Configuration
     conf = {
