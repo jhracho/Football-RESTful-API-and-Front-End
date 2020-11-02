@@ -52,6 +52,9 @@ function populateDict(responseText) {
     }
 
     for (var i = 0; i < response.length; i++) {
+        if (response[i] == null) {
+            continue;
+        }
         var parsedTeams = parseTeams(response[i]['teams']);
         switch (parsedTeams[0]) {
             case 'Cardinals':
