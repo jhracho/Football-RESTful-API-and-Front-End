@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-var url = "http://student05.cse.nd.edu:51087/scores/";
+var url = "http://student04.cse.nd.edu:51087/scores/";
 xhr.open("GET", url, true);
 
 xhr.onload = function (e) {

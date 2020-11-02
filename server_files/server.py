@@ -43,7 +43,7 @@ def start_service():
     conf = {
         'global' : {
             'server.thread_pool' : 5,
-            'server.socket_host' : 'student05.cse.nd.edu',
+            'server.socket_host' : 'student04.cse.nd.edu',
             'server.socket_port' : 51087
         },
         '/' : {
