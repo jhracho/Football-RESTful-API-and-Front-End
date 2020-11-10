@@ -3,7 +3,7 @@ import requests
 import json
 
 class TestFootball(unittest.TestCase):
-    SITE_URL = 'http://student05.cse.nd.edu:51087'
+    SITE_URL = 'http://student04.cse.nd.edu:51087'
     print("Testing for server: " + SITE_URL)
     FOOTBALL_URL = SITE_URL + '/scores/'
     FILTER_URL = SITE_URL + '/filter/'
