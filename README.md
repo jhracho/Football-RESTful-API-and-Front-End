@@ -21,6 +21,9 @@ python3 test_api.py
 python3 test_ws.py
 ```
 
+## Complexity
+We believe out project to be reasonably complex per the scope of this project. Our webpage has multiple pages that, overall, can send every type of request to our server discussed in class. We have multiple controllers to return, edit, and delete data points. Most of our complexity comes in the way we display our data, this being a table that grows or shrinks based on the amount of games that fit the criteria. We implemented many HTML elements not discussed in class as well. Thus, we feel our project is of an appropriate complexity.
+
 ## JSON Specification
 | Request Type | Request Endpoint |     Request Body    |         Expected Response         |                           Inner Handling                           |
 | ------------ | ---------------- | ------------        | --------------------------------- | ------------------------------------------------------------------ |
