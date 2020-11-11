@@ -33,3 +33,11 @@ We believe out project to be reasonably complex per the scope of this project. O
 |    DELETE	   |   /scores/:fid	  |	    	{}			|		   {result:success}			|			 DELETE_KEY: Calls delete_game on a specific fid         |
 |    DELETE    |	 /scores/	  |			{}			|		   {result:success}			|			    DELETE_INDEX: Deletes literally everything           |
 |     POST	   |	 /scores/	  |	json formatted game |		   {result:success}			|			  POST_KEY: Adds a game to the end of the dataset        |
+
+## Video Links
+[Code Walkthrough]\
+[Web Interface Demo]
+
+
+[Code Walkthrough]: https://youtu.be/1T5vcWDibOw
+[Web Interface Demo]: https://youtu.be/g54ihU1AKgk
