@@ -101,7 +101,7 @@ function filterData() {
 	clearTable();
 	buildTable();
 	var xhr = new XMLHttpRequest();
-	var url = "http://student04.cse.nd.edu:51087/scores/";
+	var url = "http://student04.cse.nd.edu:51049/scores/";
 	xhr.open("GET", url, true);
 	xhr.onload = function (e) {
 		filterResponse(JSON.parse(xhr.responseText));
@@ -293,7 +293,7 @@ function filterTotalScore(response, criteria) {
 
 function filterID(response, criteria) {
 	var xhr = new XMLHttpRequest();
-	var url = "http://student04.cse.nd.edu:51087/scores/" + criteria;
+	var url = "http://student04.cse.nd.edu:51049/scores/" + criteria;
 	xhr.open("GET", url, true);
 	xhr.onload = function (e) {
 		displayFilterID(JSON.parse(xhr.responseText));
