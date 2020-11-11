@@ -288,7 +288,7 @@ function handleAdd() {
         }
 
         var xhr = new XMLHttpRequest();
-        var url = "http://student04.cse.nd.edu:51087/scores/";
+        var url = "http://student04.cse.nd.edu:51049/scores/";
 
         xhr.open("POST", url, true);
 
@@ -314,7 +314,7 @@ function handleRemove() {
     if (Number.isInteger(parseInt(fid)) || !fid) {
 
         var xhr = new XMLHttpRequest();
-        var url = "http://student04.cse.nd.edu:51087/scores/" + fid;
+        var url = "http://student04.cse.nd.edu:51049/scores/" + fid;
 
         xhr.open("DELETE", url, true);
 
@@ -349,7 +349,7 @@ function handleEdit() {
         };
 
         var xhr = new XMLHttpRequest();
-        var url = "http://student04.cse.nd.edu:51087/scores/" + fid;
+        var url = "http://student04.cse.nd.edu:51049/scores/" + fid;
 
         xhr.open("PUT", url, true);
 
@@ -374,7 +374,7 @@ function handleReset() {
     var fid = document.getElementById("gameid").value;
     if (Number.isInteger(parseInt(fid)) || !fid) {
         var xhr = new XMLHttpRequest();
-        var url = "http://student04.cse.nd.edu:51087/reset/" + fid;
+        var url = "http://student04.cse.nd.edu:51049/reset/" + fid;
         data = {};
 
         xhr.open("PUT", url, true)
