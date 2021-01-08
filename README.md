@@ -1,4 +1,4 @@
-# Football RESTful API and Front-End Webpage
+# Football RESTful API and Web Interface
 ![Logo](Images/Main_Page.JPG)
 
 ## Overview
