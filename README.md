@@ -6,9 +6,7 @@ The webservice can be used to make GET, PUT, DELETE, and POST requests. Users ca
 Port Number: 51087
 
 ## OO API
-The API is used to manage the database of football scores.\
-Test API script - test_api.py\
-Test Web Server script - test_ws.py
+The API is used to manage the database of football scores. The data is stored in a .csv file.\
 
 ## Testing
 run server.py in one terminal on student04
