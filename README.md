@@ -1,5 +1,5 @@
 # Football RESTful API and Front-End Webpage
-![Screenshot](Image_Main_Page)
+![Logo](Images/Main_Page.JPG)
 
 ## Overview
 The webservice can be used to make GET, PUT, DELETE, and POST requests. Users can access the data, delete data, edit data, and add new data entries.\
